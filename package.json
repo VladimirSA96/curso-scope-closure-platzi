@@ -1,0 +1,12 @@
+{
+  "name": "curso-scope-closure-platzi",
+  "version": "1.0.0",
+  "description": "Este es un curso de scope closure de platzi con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
